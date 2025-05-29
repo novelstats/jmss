@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Journal of Modern Statistical Science (JMSS)</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Journal of Modern Statistical Science (JMSS)</h1>
+    <p>Advancing Theory, Methods, and Applications in Statistics</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#cfp">Call for Papers</a>
+    <a href="#submit">Submit</a>
+    <a href="#templates">Templates</a>
+    <a href="#board">Editorial Board</a>
+  </nav>
+
+  <section id="about">
+    <h2>About JMSS</h2>
+    <p>The Journal of Modern Statistical Science publishes original research in theoretical, applied, and computational statistics. We encourage work on new distributions, Bayesian modeling, survival analysis, and modern statistical computing.</p>
+  </section>
+
+  <section id="cfp">
+    <h2>Call for Papers</h2>
+    <p><strong>Inaugural Issue — Submit by August 31, 2025</strong></p>
+    <p>Topics include: New statistical models, inference methods, Bayesian analysis, machine learning, measurement error, and applied statistics.</p>
+  </section>
+
+  <section id="submit">
+    <h2>Submit a Manuscript</h2>
+    <p>We use <a href="https://your-ojs-domain.com">OJS</a> for submissions.</p>
+  </section>
+
+  <section id="templates">
+    <h2>Author Templates</h2>
+    <ul>
+      <li><a href="templates/JMSS_LaTeX_Template.tex">LaTeX Template</a></li>
+      <li><a href="templates/JMSS_MSWord_Template.txt">MS Word Template</a></li>
+      <li><a href="editorial/editorial_policy.md">Editorial Policy</a></li>
+      <li><a href="editorial/reviewer_guidelines.md">Reviewer Guidelines</a></li>
+    </ul>
+  </section>
+
+  <section id="board">
+    <h2>Editorial Board</h2>
+    <p>Editor-in-Chief: [Your Name], [Your Affiliation] <br>
+    Associate Editors: Coming soon</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Journal of Modern Statistical Science. All rights reserved. CC BY 4.0.</p>
+  </footer>
+</body>
+</html>
