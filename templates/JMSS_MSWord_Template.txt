@@ -1,0 +1,9 @@
+JMSS MS Word Template
+
+Title: Your Article Title
+Author(s): Name(s)
+Abstract: Write here
+Keywords: Separate, By, Comma
+
+1. Introduction
+Write your content here.
